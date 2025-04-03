@@ -69,7 +69,26 @@ A Cartesian Plane can be divided into 4 sectors otherwise known as quadrants. In
 (-2.5, -2.5)|Label:Q3
 (2.5, -2.5)|Label:Q4
 ```
+### 1.1.3 Odd and Even Functions
 
+> A function $f(x)$ when, $f(-x) = f(x)$ is considered to be an **even function** while a function $f(x)$ where $f(-x) = -f(x)$ is considered to be an **odd function**.
+
+for example the function $f(x) = x^2$ is an even function since negating the input won't change the function. While a linear function like $f(x) = x$ clearly gets changed when the input is negated making it an odd function.
+
+```desmos-graph
+f(x) = x^2
+f(-x)
+g(x) = x
+g(-x)
+```
+$$
+\begin{align*}
+f(x) &= x^2 \longrightarrow Green \\
+f(-x) &= x^2 \longrightarrow Green \\
+f(x) &= x \longrightarrow Purple \\
+f(-x) &= x \longrightarrow Black
+\end{align*}
+$$
 ## 1.2 Piecewise Functions
 ------------------------
 A Piecewise function is quite literally a function in pieces, more accurately said a piecewise function acts on different functions depending on the range of the input.
@@ -295,7 +314,7 @@ $$
 
 **Note**: For real numbers $A$ and $B$, an equation of the form $|A|=B$,  with $B≥0$, will have solutions when $A=B$ or $A=−B$. If $B<0$, the equation $|A|=B$ has **no solution**.^[1.]
 
-With this, the unit note is complete.
+With this, the topic note is complete.
 
 ***
 ***

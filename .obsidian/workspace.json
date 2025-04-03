@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8918a870a9be0bff",
+        "id": "f1a0327f21d1a881",
         "type": "tabs",
         "children": [
           {
-            "id": "c4dc835997a3189c",
+            "id": "d410e0228c5d8388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -171,11 +166,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c4dc835997a3189c",
+  "active": "d410e0228c5d8388",
   "lastOpenFiles": [
-    "README.md",
     "Math/(2) Trigonometry.md",
     "Math/(1) Functions and Graphs.md",
+    "Excalidraw/Math/(2) - fig 2.3.md",
+    "Physics/(1) Mechanics.md",
+    "README.md",
     "Math/(1 - A) Interval Notation.md",
     "Excalidraw/Math/(2) - fig 2.1.md",
     "Excalidraw/Physics/(5) - fig 1.4.3.md",
@@ -185,7 +182,6 @@
     "Excalidraw/Physics/(1) - fig 1.3.3.md",
     "Excalidraw/Math",
     "1.md",
-    "Physics/(1) Mechanics.md",
     "Untitled.canvas",
     "Excalidraw/Physics",
     "Excalidraw",

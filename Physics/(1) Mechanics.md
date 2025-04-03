@@ -317,7 +317,7 @@ R &= \frac{V^2 \cdot \sin{(2\theta)}}{g} \longrightarrow (14)
 \end{align*}
 $$
 
-> The "Double-Angle Identity" is an identity used in Trigonometry. See [Link to trigonometry here within notes]
+> The "Double-Angle Identity" is an identity used in Trigonometry. See [[(2) Trigonometry]] _Eq. 4_
 ### 1.4.3 Type 3
 ![[(5) - fig 1.4.3]]
 
