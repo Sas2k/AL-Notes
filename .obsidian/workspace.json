@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49c4f33e7ef5d088",
+        "id": "8918a870a9be0bff",
         "type": "tabs",
         "children": [
           {
-            "id": "5a947744502bbb5f",
+            "id": "c4dc835997a3189c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/(2) Trigonometry.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2) Trigonometry"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +167,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5a947744502bbb5f",
+  "active": "c4dc835997a3189c",
   "lastOpenFiles": [
-    "Math/(1) Functions and Graphs.md",
+    "README.md",
     "Math/(2) Trigonometry.md",
+    "Math/(1) Functions and Graphs.md",
     "Math/(1 - A) Interval Notation.md",
     "Excalidraw/Math/(2) - fig 2.1.md",
     "Excalidraw/Physics/(5) - fig 1.4.3.md",
@@ -185,7 +182,6 @@
     "Excalidraw/Math",
     "1.md",
     "Physics/(1) Mechanics.md",
-    "Welcome 👋.md",
     "Untitled.canvas",
     "Excalidraw/Physics",
     "Excalidraw",
