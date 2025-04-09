@@ -118,6 +118,8 @@ Q_4 \longrightarrow R &= 360 - \theta \; (270 < \theta < 360)
 $$
 If the angle exceeds $360^\circ$, We firstly need to substract $360^{\circ}$ then we apply the above formulas. With this we can now get the values of any angle.
 
+### 2.1.3
+
 ## 2.2 Trigonometric Identities
 ---------------------------------
 Now with trigonometric functions there are multiple identities and formulas used to simplify equations.
@@ -234,10 +236,10 @@ As the heading suggests these turn products into a series of sums
 
 $$
 \begin{align*}
-\sin\alpha \cdot \sin\beta &= \frac{1}{2} [\cos(\alpha-\beta) - \cos(\alpha - \beta)] \longrightarrow (20) \\
-\cos\alpha \cdot \cos\beta &= \frac{1}{2} [\cos(\alpha-\beta) + \cos(\alpha - \beta)] \longrightarrow (21) \\
-\sin\alpha \cdot \cos\beta &= \frac{1}{2} [\sin(\alpha-\beta) + \sin(\alpha-\beta)] \longrightarrow (22) \\
-\cos\alpha \cdot \sin\beta &= \frac{1}{2} [\sin(\alpha-\beta) - \sin(\alpha-\beta)] \longrightarrow (22)
+\sin\alpha \cdot \sin\beta &= \frac{1}{2} [\cos(\alpha-\beta) - \cos(\alpha+\beta)]\\
+\cos\alpha \cdot \cos\beta &= \frac{1}{2} [\cos(\alpha-\beta) + \cos(\alpha+\beta)]\\
+\sin\alpha \cdot \cos\beta &= \frac{1}{2} [\sin(\alpha+\beta) + \sin(\alpha-\beta)]\\
+\cos\alpha \cdot \sin\beta &= \frac{1}{2} [\sin(\alpha+\beta) - \sin(\alpha-\beta)]
 \end{align*}
 $$
 ### 2.2.8 Sum to Product formulas
@@ -248,7 +250,7 @@ $$
 \sin\alpha + \sin\beta &= 2 \cdot \sin\biggl(\frac{\alpha+\beta}{2}\biggr) \cdot \cos\biggl(\frac{\alpha-\beta}{2}\biggr) \longrightarrow (23) \\
 \sin\alpha - \sin \beta &= 2 \cdot \sin\biggl(\frac{\alpha-\beta}{2}\biggr) \cdot \cos\biggl(\frac{\alpha+\beta}{2}\biggr) \longrightarrow (24) \\
 \cos\alpha + \cos\beta &= 2 \cdot \cos\biggl(\frac{\alpha+\beta}{2}\biggr) \cdot \cos\biggl(\frac{\alpha-\beta}{2}\biggr) \longrightarrow (25) \\
-\cos\alpha - \cos\beta &= -2 \cdot \sin\biggl(\frac{\alpha+\beta}{2}\biggr) \cdot \cos\biggl(\frac{\alpha-\beta}{2}\biggr) \longrightarrow (26)
+\cos\alpha - \cos\beta &= -2 \cdot \sin\biggl(\frac{\alpha+\beta}{2}\biggr) \cdot \sin\biggl(\frac{\alpha-\beta}{2}\biggr) \longrightarrow (26)
 \end{align*}
 $$
 That's all of the Identities (we need that is.)
