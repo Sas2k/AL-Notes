@@ -1,4 +1,4 @@
-> **Trigonometry** (from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") [τρίγωνον](https://en.wiktionary.org/wiki/%CF%84%CF%81%CE%AF%CE%B3%CF%89%CE%BD%CE%BF%CE%BD#Ancient_Greek "wikt:τρίγωνον") _(_trígōnon_)_ 'triangle' and [μέτρον](https://en.wiktionary.org/wiki/%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CE%BD#Ancient_Greek "wikt:μέτρον") _(_métron_)_ 'measure')[1](https://en.wikipedia.org/wiki/Trigonometry#cite_note-1) is a branch of [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") concerned with relationships between [angles](https://en.wikipedia.org/wiki/Angle "Angle") and side lengths of triangles. ^[1.]
+> **Trigonometry** (from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") [τρίγωνον](https://en.wiktionary.org/wiki/%CF%84%CF%81%CE%AF%CE%B3%CF%89%CE%BD%CE%BF%CE%BD#Ancient_Greek "wikt:τρίγωνον") _(_trígōnon_)_ 'triangle' and [μέτρον](https://en.wiktionary.org/wiki/%CE%BC%CE%AD%CF%84%CF%81%CE%BF%CE%BD#Ancient_Greek "wikt:μέτρον") _(_métron_)_ 'measure')[1](https://en.wikipedia.org/wiki/Trigonometry#cite_note-1) is a branch of [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") concerned with relationships between [angles](https://en.wikipedia.org/wiki/Angle "Angle") and side lengths of triangles. [^1]
 
 Now, we'll talk about triangles. Primarily Right Angled Triangles. Trigonometry allows us to identify the missing angles or sides of a triangle and calculate them.
 
@@ -294,8 +294,6 @@ $$
 With that this topic is complete
 
 ---
----
 Author: Sasen Perera
 
-Citations:
-1. https://en.wikipedia.org/wiki/Trigonometry
+[^1]: https://en.wikipedia.org/wiki/Trigonometry

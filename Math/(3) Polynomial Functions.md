@@ -175,10 +175,10 @@ The difference here is that we only use the coefficients of the polynomials then
 5. Add the terms of the second column.
 6. Multiply the result by $k$. Write the product in the next column.
 7. Repeat steps 5 and 6 for the remaining columns.
-8. Use the bottom numbers to write the quotient. The number in the last column is the remainder. The next number from the right has degree 0, the next number has degree 1, and so on. ^[1.]
+8. Use the bottom numbers to write the quotient. The number in the last column is the remainder. The next number from the right has degree 0, the next number has degree 1, and so on. [^1]
 
 ![[Synthetic-Division.png]]
-_Taken from OpenStax Precalculus 2e_
+_Long Division ExampleTaken from OpenStax Precalculus 2e_
 ## 3.6 Remainder Theorem
 ------------------------------
 
@@ -202,7 +202,7 @@ $$
 
 Now, since we know this we can apply this to evaluate functions at a specific point.
 
->**Remainder Theorem**: If a polynomial $f(x)$ is divided by, $x−k$, then the remainder is the value $f(k)$.^[2.]
+>**Remainder Theorem**: If a polynomial $f(x)$ is divided by, $x−k$, then the remainder is the value $f(k)$.[^2]
 
 ### 3.6.1 Evaluating Functions with the Remainder Theorem
 
@@ -244,7 +244,7 @@ in a similar manner, if $(x - k)$ is a factor of $f(x)$, the division algorithm 
 
 As the pair of implications would have it, this would mean that the polynomial of $n^{th}$ degree would have $n$ roots/zeros in the complex plane. Therefore we can use the Factor theorem to factor out the $n$ terms and get the zeros.
 
-> **Factor Theorem**: _According to the Factor Theorem, kk is a zero of f(x)f(x) if and only if (x−k)(x−k) is a factor of f(x)._ ^[3.]
+> **Factor Theorem**: _According to the Factor Theorem, $k$ is a zero of $f(x)$ if and only if $(x−k)$ is a factor of $f(x)$._ [^2]
 
 ### 3.7.1 Getting the factors of a polynomial when a single factor is already given with the Factor Theorem
 
@@ -279,7 +279,7 @@ Here's an example,
 --------------------------------
 
 > **Rational Zero Theorem**: _The Rational Zero Theorem states that, if the polynomial $f(x)=a_nx^n+a_{n−1}x^{n−1}+...+a_1x+a_0$ has integer coefficients and $a_n≠0$, then every rational zero of $f(x)$ has the form $pq$ where $p$ is a factor of the constant term $a_0$ and $q$ is a factor of the leading coefficient $a_n$.
->When the leading coefficient is 1, the possible rational zeros are the factors of the constant term._^[4.]
+>When the leading coefficient is 1, the possible rational zeros are the factors of the constant term._ [^2]
 
 Simply said, the Rational Zero Theorem is a way to narrow down the number of rational numbers we can test for roots with the Factor Theorem.
 
@@ -327,8 +327,8 @@ In this case there's 3 sign changes in $f(-x)$. This tells us that $f(x)$ can ha
 ----
 
 Also when describing Intervals, Domains, Ranges and Asymptotes we have 2 methods
-1. [Interval Notation]([[(1 - A) Interval Notation]]) which we described in [[(1) Functions and Graphs]]
-2. [Arrow Notation]([[(3 - A) Arrow Notation]]) which is similar to interval notation except it's arrows.
+1. [[(1 - A) Interval Notation |Interval Notation]] which we described in [[(1) Functions and Graphs]]
+2. [[(3 - A) Arrow Notation |Arrow Notation]] which is similar to interval notation except it's arrows.
 
 ## 3.11 Modelling using Variation
 ------------------------------------
@@ -341,9 +341,8 @@ Variation is where you recreate a relation with an equation model a behavior and
 With that this unit is over.
 
 ---
----
 Author: Sasen Perera
 
-Citations:
-- [1.] - https://openstax.org/books/precalculus-2e/pages/3-5-dividing-polynomials 
--  [2.]  [3.]  [4.] -  https://openstax.org/books/precalculus-2e/pages/3-6-zeros-of-polynomial-functions
+[^1]: https://openstax.org/books/precalculus-2e/pages/3-5-dividing-polynomials
+
+[^2]: https://openstax.org/books/precalculus-2e/pages/3-6-zeros-of-polynomial-functions

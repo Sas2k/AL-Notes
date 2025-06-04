@@ -7,7 +7,7 @@ A relation is a set or ordered pairs as $\{(1,2),(2,4),(3,6),(4,8),(5,10)\}$
 
 where the inputs are the **Domain** while the output are the **Range** (which will be explained later on.)
 
-see [[(1 - A) Interval Notation]] for the systematic way of describing inequalities
+see [[(1 - A) Interval Notation|Interval Notation]] for the systematic way of describing inequalities
 
 this is the standard notation for describing functions, the variable y represents the vertical axis of a cartesian plane. below is a graph of $$f(x) = x$$
 
@@ -312,13 +312,11 @@ $$
 $$
 
 
-**Note**: For real numbers $A$ and $B$, an equation of the form $|A|=B$,  with $B≥0$, will have solutions when $A=B$ or $A=−B$. If $B<0$, the equation $|A|=B$ has **no solution**.^[1.]
+**Note**: For real numbers $A$ and $B$, an equation of the form $|A|=B$,  with $B≥0$, will have solutions when $A=B$ or $A=−B$. If $B<0$, the equation $|A|=B$ has **no solution**.[^1]
 
 With this, the topic note is complete.
 
 ***
-***
 Author: Sasen Perera
 
-Citations: 
-1. https://openstax.org/books/precalculus-2e/pages/1-6-absolute-value-functions
+[^1]:https://openstax.org/books/precalculus-2e/pages/1-6-absolute-value-functions 
